@@ -1,0 +1,5 @@
+{
+  "/api/run-tests/route": "app/api/run-tests/route.js",
+  "/api/generate-scenarios/route": "app/api/generate-scenarios/route.js",
+  "/page": "app/page.js"
+}
